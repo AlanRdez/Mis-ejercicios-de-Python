@@ -1,6 +1,6 @@
 edad = int(input("Digite su edad: "))
 
-if not (edad >1 and edad <100):
+if  1 <= edad 100 <=:
     print ("Edad Correcta")
     if edad >= 18:
         print ("Eres mayor de edad")
